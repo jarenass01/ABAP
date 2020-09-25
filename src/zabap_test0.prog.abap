@@ -8,4 +8,5 @@ REPORT zabap_test0.
 
 WRITE: |Hola mundo ABAP|.
 
-MESSAGE |Hola test| TYPE 'E'.
+
+WRITE: |Prueba|.
